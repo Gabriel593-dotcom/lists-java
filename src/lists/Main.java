@@ -51,7 +51,8 @@ public class Main {
 		
 		System.out.println("-------------------------------------");
 		System.out.println(nome);
-		System.out.println("End");
+		System.out.println();
+		System.out.println("--End--");
 
 	}
 
